@@ -1,2 +1,2 @@
-# dio-desafio-de-codigo
-Desafio do git para demonstrar noções de Git/GitHub
+# Desafio de codigo da dio
+Desafio do git para demonstrar noções basicas de Git/GitHub
